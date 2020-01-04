@@ -34,16 +34,17 @@ Issues on Boostnote can be funded by anyone and the money will be distributed to
 [![Let's fund issues in this repository](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/repos/53266139)
 
 ## Community
+
 - [Facebook Group](https://www.facebook.com/groups/boostnote/)
 - [Twitter](https://twitter.com/boostnoteapp)
 - [Slack Group](https://join.slack.com/t/boostnote-group/shared_invite/enQtMzkxOTk4ODkyNzc0LWQxZTQwNjBlMDI4YjkyYjg2MTRiZGJhNzA1YjQ5ODA5M2M0M2NlMjI5YjhiYWQzNzgzYmU0MDMwOTlmZmZmMGE)
 - [Blog](https://medium.com/boostnote)
 - [Reddit](https://www.reddit.com/r/Boostnote/)
 
+### More Information
 
-#### More Information
-* Website: https://boostnote.io
-* Newsletters: https://boostnote.io/#subscribe
+* Website: <https://boostnote.io>
+* Newsletters: <https://boostnote.io/#subscribe>
 * [Development](https://github.com/BoostIO/Boostnote/blob/master/docs/build.md): Development configurations for Boostnote.
 * Copyright (C) 2016 - 2019 BoostIO, Inc.
 

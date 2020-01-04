@@ -10,7 +10,7 @@
 我们使用Webpack HMR来开发Boostnote。
 在代码根目录下运行下列指令可以以默认配置运行Boostnote。
 
-### 首先使用yarn安装所需的依赖包。
+### 首先使用yarn安装所需的依赖包
 
 ```
 $ yarn
@@ -22,8 +22,10 @@ $ yarn
 $ yarn run dev
 ```
 
-> ### 提示
+### 提示
+
 > 在如下情况中，您可能需要重新运行Boostnote才能应用代码更改
+>
 > 1. 当您在修改了一个组件的构造函数的时候When editing a constructor method of a component
 > 2. 当您新建了一个CSS类的时候（其实这和第1项是相同的，因为每个CSS类都需在组件的构造函数中被重写）
 
